@@ -1,0 +1,39 @@
+# Global settings
+actions=1
+anchor=top-right
+background-color=#1e1e1e
+text-color=#c8c8c8
+border-color=#a6da95
+progress-color=#D3ECCA
+border-radius=0
+border-size=4
+default-timeout=5000
+font=Maple Mono NF 11
+height=100
+width=300
+icons=1
+ignore-timeout=0
+layer=top
+margin=10
+padding=12
+markup=1
+max-icon-size=32
+
+# Actionable notifications
+[actionable=true]
+anchor=top-left
+border-color=#a6da95
+background-color=#2a2a2a
+
+# Urgency sections
+[urgency=low]
+border-color=#a6da95
+text-color=#b8c0e0
+
+[urgency=normal]
+border-color=#a6da95
+
+[urgency=high]
+border-color=#a6da95
+text-color=#cad3f5
+default-timeout=0
