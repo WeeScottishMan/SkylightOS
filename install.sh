@@ -12,8 +12,8 @@ gsettings set org.gnome.desktop.interface monospace-font-name 'Maple Mono NF 11'
 xdg-mime default org.gnome.Nautilus.desktop inode/directory application/x-gnome-saved-search
 
 
-cp ./.config/* ~/.config/
-cp ./.local/* ~/.local/
+cp -r ./.config/* ~/.config/
+cp -r ./.local/* ~/.local/
 cp ./.bashrc ~/.bashrc
 
 mkdir -p ~/.local/share/applications
