@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo pacman -Syu
 
-sudo pacman -S niri nautilus gnome-disk-utility gnome-text-editor loupe showtime fuzzel mako waybar xdg-desktop-portal-gnome swaybg kitty polkit-gnome vesktop steam heroic-games-launcher-bin helium-browser-bin proton-cachyos proton-cachyos-slr gamescope xwayland-satellite tela-circle-icon-theme-green
+sudo pacman -S niri ly nautilus gnome-disk-utility gnome-text-editor loupe showtime fuzzel mako waybar xdg-desktop-portal-gnome swaybg kitty polkit-gnome vesktop steam heroic-games-launcher-bin helium-browser-bin proton-cachyos proton-cachyos-slr gamescope xwayland-satellite tela-circle-icon-theme-green
 
 gsettings set org.gnome.desktop.interface color-scheme prefer-dark
 gsettings set org.gtk.Settings.FileChooser sort-directories-first true
@@ -18,3 +18,8 @@ mkdir ~/.local
 mkdir ~/.local/share
 cp -r ./.local/* ~/.local/
 cp ./.bashrc ~/.bashrc
+
+sudo systemctl disable getty@tty1.service
+sudo systemctl enable ly@tty1.service
+
+reboot
