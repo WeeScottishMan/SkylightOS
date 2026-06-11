@@ -15,5 +15,3 @@ xdg-mime default org.gnome.Nautilus.desktop inode/directory application/x-gnome-
 cp -r ./.config/* ~/.config/
 cp -r ./.local/* ~/.local/
 cp ./.bashrc ~/.bashrc
-
-mkdir -p ~/.local/share/applications
