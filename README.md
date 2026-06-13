@@ -5,11 +5,15 @@
 > 
 >![Image of my desktop](https://github.com/WeeScottishMan/SkylightOS-Webpage/blob/main/images/BleedingEdge.png)
 
+<br/>
+
 ## What Is This 🤔
 
 - SkylightOS is my Arch Linux setup that focuses on a minimal and clean user interface with Adwaita theming.
 
 - Thank you to the [CachyOS](https://cachyos.org/) team for there work on the CachyOS repo and kernels.
+
+<br/>
 
 ## Features 🚀
 
@@ -18,6 +22,8 @@
 - 🧹 **Simple** — Minimal baseline for gaming and productivity, no messy bloat like a certain microslop product.
 - 🖥️ **Lightweight WM** — Uses Niri an easy, configurable and minimal scrolling wm. MANGOS INCLUDED!
 - 🎨 **Customizable** — Skip the configuration and get straight to designing a masterpiece.
+
+<br/>
 
 ## List Of Installed Applications 🛠️
 
@@ -32,12 +38,15 @@
 > - [Showtime](https://apps.gnome.org/en-GB/Showtime/) (Gnome Video Player)
 > - [Loupe](https://apps.gnome.org/en-GB/Loupe/) (Gnome Image Viewer)
 
+<br/>
 
 ## Getting Started 🎯
 
 Install [CachyOS](https://cachyos.org/) as normal with the no desktop option as shown in the image below:
 
 ![CachyOS Install Screen Guide](https://github.com/WeeScottishMan/SkylightOS-Webpage/blob/main/images/Install.png)
+
+<br/>
 
 ## Post Installation Steps 🏁
 
@@ -55,11 +64,15 @@ Run and install the script to setup the system:
 ./install.sh
 ```
 
+<br/>
+
 ## Things I still am working on 🛠️
 
 - Detecting and installing on base Arch Linux and automatically adding CachyOS kernel, repo and configuration.
 
 - Polishing up the website and adding a guide and faq, see the [websites](https://github.com/WeeScottishMan/SkylightOS-Webpage) github page for more info.
+
+<br/>
 
 ## Disclamer ⚠️
 
