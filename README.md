@@ -20,7 +20,7 @@
 - 🎮 **Gaming-first** — Installed on a minimal [CachyOS](https://cachyos.org/) base, for maximum gaming performance.
 - ⚡ **Bleeding Edge** — Built on rolling release distro for all the latest goodies, because whats life without a bit of chaos.
 - 🧹 **Simple** — Minimal baseline for gaming and productivity, no messy bloat like a certain microslop product.
-- 🖥️ **Lightweight WM** — Uses Niri an easy, configurable and minimal scrolling wm. MANGOS INCLUDED!
+- 🖥️ **Lightweight WM** — Uses Niri an easy, configurable and minimal scrolling wm.
 - 🎨 **Customizable** — Skip the configuration and get straight to designing a masterpiece.
 
 <br/>
