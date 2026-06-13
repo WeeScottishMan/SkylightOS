@@ -59,6 +59,8 @@ Run and install the script to setup the system:
 
 - Detecting and installing on base Arch Linux and automatically adding CachyOS kernel, repo and configuration.
 
+- Polishing up the website and adding a guide and faq, see the [websites](https://github.com/WeeScottishMan/SkylightOS-Webpage) github page for more info.
 
-```
+## Disclamer ⚠️
+
 > This is my personal setup so as expected things will change with my learning and understanding of install scripts.
