@@ -3,7 +3,7 @@
 
 > ⋆˙⟡︱ A little sneek peak at my little customised Niri setup!
 > 
->![Image of my desktop](https://files.catbox.moe/cwb46m.png)
+>![Image of my desktop](https://files.catbox.moe/hln8r9.png)
 
 ## What Is This?
 
