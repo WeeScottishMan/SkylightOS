@@ -25,6 +25,7 @@
 > - [Steam](https://store.steampowered.com/) (Proton Cachyos & Proton Cachyos Slr)
 > - [Vesktop](https://vesktop.dev/)
 > - [Heroic Games Launcher](https://heroicgameslauncher.com/)
+> - [Protonplus](https://protonplus.vysp3r.com/)
 > - [Nautilus](https://apps.gnome.org/en-GB/Nautilus/)
 > - [Gnome Text Editor](https://apps.gnome.org/en-GB/TextEditor/)
 > - [Gnome Disk Utility](https://apps.gnome.org/en-GB/DiskUtility/)
