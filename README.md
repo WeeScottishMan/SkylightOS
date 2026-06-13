@@ -34,6 +34,10 @@
 
 ## Getting Started
 
+Install CachyOS as normal with the no desktop option as shown in the image below:
+
+![CachyOS Install Screen Guide](https://github.com/WeeScottishMan/SkylightOS-Webpage/blob/main/images/Install.png)
+
 Clone the repository:
 
 ```bash
