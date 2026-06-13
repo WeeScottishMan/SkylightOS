@@ -3,7 +3,7 @@
 
 > ⋆˙⟡︱ A little sneek peak at my little customised Niri setup!
 > 
->![Image of my desktop](https://files.catbox.moe/hln8r9.png)
+>![Image of my desktop](https://github.com/WeeScottishMan/SkylightOS-Webpage/blob/main/images/BleedingEdge.png)
 
 ## What Is This?
 
