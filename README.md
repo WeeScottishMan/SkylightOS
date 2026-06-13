@@ -5,13 +5,13 @@
 > 
 >![Image of my desktop](https://github.com/WeeScottishMan/SkylightOS-Webpage/blob/main/images/BleedingEdge.png)
 
-## What Is This?
+## What Is This 🤔
 
 - SkylightOS is my Arch Linux setup that focuses on a minimal and clean user interface with Adwaita theming.
 
 - Thank you to the [CachyOS](https://cachyos.org/) team for there work on the CachyOS repo and kernels.
 
-## Features
+## Features 🚀
 
 - 🎮 **Gaming-first** — Installed on a minimal [CachyOS](https://cachyos.org/) base, for maximum gaming performance.
 - ⚡ **Bleeding Edge** — Built on rolling release distro for all the latest goodies, because whats life without a bit of chaos.
@@ -32,11 +32,14 @@
 > - [Loupe](https://apps.gnome.org/en-GB/Loupe/) (Gnome Image Viewer)
 
 
-## Getting Started
+## Getting Started 🎯
 
-Install CachyOS as normal with the no desktop option as shown in the image below:
+Install [CachyOS](https://cachyos.org/) as normal with the no desktop option as shown in the image below:
 
 ![CachyOS Install Screen Guide](https://github.com/WeeScottishMan/SkylightOS-Webpage/blob/main/images/Install.png)
+
+## Post Installation Steps 🏁
+
 
 Clone the repository:
 
