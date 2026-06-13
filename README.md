@@ -55,4 +55,10 @@ Run and install the script to setup the system:
 ./install.sh
 ```
 
+## Things I still am working on 🛠️
+
+- Detecting and installing on base Arch Linux and automatically adding CachyOS kernel, repo and configuration.
+
+
+```
 > This is my personal setup so as expected things will change with my learning and understanding of install scripts.
